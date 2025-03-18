@@ -1,5 +1,5 @@
 
-## Curation Criteria
+# Curation Criteria
 To ensure quality and relevance, repositories included in the list must meet the following criteria:
 - Educational Value – The repository should offer clear, structured learning material.
 - Recent Updates – The content must be actively maintained and updated regularly.
@@ -25,7 +25,7 @@ Hands-on workshops that help developers practice implementing ICP features in re
 * Relevant Frameworks/Tools: React, Svelte, Next.js, Anda Framework.
 * Blockchain Integrations: Bitcoin, Ethereum, ckBTC (if applicable).
 
-# Structure & Accessibility
+## Structure & Accessibility
 
 * The curated list will be hosted in a public GitHub repository for transparency and easy access.
 Content will be categorized as outlined above to help users quickly find relevant materials.
