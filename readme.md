@@ -540,7 +540,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ## Decentralized AI
 
-[Decentralized AI ](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a?pvs=4) - This Playbook is for ICP AI hackathons, specifically designed for the ICP HUBS Network.
+- [Decentralized AI ](https://yummy-cloud-4fc.notion.site/ICP-DeAI-HACKATHON-PLAYBOOK-1b443ae7d9d480b0b4edcecb59b0d62a?pvs=4) - This Playbook is for ICP AI hackathons, specifically designed for the ICP HUBS Network.
 - [ArcMind AI](https://github.com/arcmindai/arcmindai) - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions, and completing goals. [Try the app here](https://arcmindai.app)
 - [ArcMind Vector DB](https://github.com/arcmindai/arcmindvector) - A Vector DB with similarity search supporting text, image, and audio embeddings, based on k-d tree, useful for AI applications like recommendation and Retrieval-Augmented Generation.
 - [Cipher AI Vault](https://github.com/supaIC/Cipher-AI-Vault) - Azle-based PoC with in-memory VectorDB & LLM, secure asset & data storage, cycles topup, and multi-wallet authentication, showcasing fully-sandboxed AI on the Internet Computer. [Try it here](https://qehbq-rqaaa-aaaan-ql2iq-cai.icp0.io/)
